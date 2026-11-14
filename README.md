@@ -1,7 +1,6 @@
 Hi, I'm Esther Fashola! 👋
 
-Data Analyst | CRM Specialist | Virtual Assistant | Technology Enthusiast
-
+Data Analyst | CRM Specialist | Virtual Assistant | Technology Enthusiast | SQL | Power BI | Microsoft Excel |Data-Driven Solutions
 Welcome to my GitHub!
 
 I'm a technology enthusiast with interests and practical experience across Data Analytics, Customer Relationship Management (CRM), and Virtual Assistance.
